@@ -1,0 +1,50 @@
+#art1 {
+	background-color: blue;
+	font-family: verdana;
+	font-size: 1em;
+	color: red;
+	line-height: 1em;
+	padding: 10% 10%;
+	border: 1px;
+	border-radius: 5px;
+}
+
+#art2 {
+	background-color: red;
+	font-family: helvetica;
+	font-size: 1.5em;
+	color: blue;
+	line-height: 2em;
+	padding: 50px 20px;
+	border-radius: 50%;
+}
+
+#art3 {
+	background-color: green;
+	font-family: arial;
+	font-size: 2em;
+	color: grey;
+	line-height: 2.5em;
+	padding: 25px 25px;
+	border-radius: 1px;
+}
+
+#art4 {
+	background-color: yellow;
+	font-family: times;
+	font-size: .75em;
+	color: green;
+	line-height: .5em;
+	padding: 10px 10px;
+	border-radius: 10%;
+}
+
+#art5 {
+	background-color: firebrick;
+	font-family: courier;
+	font-size: 1.75em;
+	color: white;
+	line-height: .25em;
+	padding: 0;
+	border-radius: 25%;
+}
